@@ -14,6 +14,6 @@ To start, I've added explanations of a few concepts in Reinforcement Learning th
 
 
 
-Feel free to contribute your own explanations, so that others may learn from them.
+Feel free to contribute your own explanations (or suggest improvements to older ones)!
 
 Author: Aman Y. Agarwal, founder of [DenseLayers.com](https://denselayers.com).
