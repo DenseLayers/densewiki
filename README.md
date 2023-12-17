@@ -1,4 +1,4 @@
-# Introducing "DenseWiki"
+# DenseWiki
 ### A repository of simple, plain-English explanations of popular concepts in Machine Learning and other disciplines.
 
 To start, I've added explanations of a few concepts in Reinforcement Learning that keep coming up in popular papers:
