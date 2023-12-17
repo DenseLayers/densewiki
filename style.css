@@ -30,13 +30,16 @@ section.nondev {
   padding: 0% 5%;
   margin: 0 auto;
   max-width: 500px;
-  font-family: sans-serif;
 }
 
-.text-url {
+*.text-url {
   text-decoration: none;
 }
 
 *.center {
   text-align: center;
+}
+
+*.sans-serif {
+  font-family: sans-serif;
 }
