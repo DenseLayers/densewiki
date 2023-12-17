@@ -1,0 +1,37 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+header {
+  text-align: center;
+}
+
+.top_logo * {
+  font-size: 40px;
+  max-height: 50px;
+  display: inline-block !important;
+}
+
+.top_logo img {
+  margin: 0 10px -10px 0;
+}
+
+header h4 {
+  margin-top: -10px;
+  font-style: italic;
+}
+
+hr {
+  color: blue;
+}
+
+section.nondev {
+  padding: 0% 5%;
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.text-url {
+  text-decoration: none;
+}
