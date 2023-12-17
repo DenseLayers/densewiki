@@ -35,3 +35,12 @@ section.nondev {
 .text-url {
   text-decoration: none;
 }
+
+.sans-serif {
+  font-family: sans-serif !important;
+}
+
+
+.center {
+  text-align: center;
+}
